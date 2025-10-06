@@ -42,10 +42,50 @@
       "uploadDate": "2025-10-06T05:00:43.000Z"
     },
     {
-      "title": "Hades II",
+      "title": "Hades II (windows)",
+      "fileSize": "9.79 GB",
+      "uris": [
+        "magnet:?xt=urn:btih:235ABCBE0E958207F17AF90F8D985D0FF59D9ACF&tr=http%3A%2F%2Fbt3.t-ru.org%2Fann%3Fmagnet&dn=%5BDL%5D%20Hades%20II%20(2)%20%5BP%5D%20%5BRUS%20%2B%20ENG%20%2B%2013%20%2F%20ENG%5D%20(2025%2C%20TPS)%20(1.131496)%20%5BPortable%5D"
+      ],
+      "uploadDate": "2025-10-06T05:00:43.000Z"
+    },
+    {
+      "title": "Hades II (linux)",
       "fileSize": "10.47 GB",
       "uris": [
         "magnet:?xt=urn:btih:91B515BAE922718C13DB20D638A466C8A243F1B1&tr=http%3A%2F%2Fbt4.t-ru.org%2Fann%3Fmagnet&dn=Hades%20II%20(2)%20%5Bamd64%5D%20%5BMulti%5D%20%5BWine%5D"
+      ],
+      "uploadDate": "2025-10-06T05:00:43.000Z"
+    },
+    {
+      "title": "Schedule I",
+      "fileSize": "7.15 GB",
+      "uris": [
+        "magnet:?xt=urn:btih:63340302C6214BD4F1945148BF30D936281B47BD&tr=http%3A%2F%2Fbt3.t-ru.org%2Fann%3Fmagnet&dn=%5BDL%5D%20%5B%D0%92%20%D1%80%D0%B0%D0%B7%D1%80%D0%B0%D0%B1%D0%BE%D1%82%D0%BA%D0%B5%5D%20Schedule%20I%20%5BP%5D%20%5BENG%20%2F%20ENG%5D%20(2025%2C%20Simulation)%20(0.4.0f8)%20%5BPortable%5D"
+      ],
+      "uploadDate": "2025-10-06T05:00:43.000Z"
+    },
+    {
+      "title": "Schedule I Soundtrack Collection",
+      "fileSize": "437.1 MB",
+      "uris": [
+        "magnet:?xt=urn:btih:63340302C6214BD4F1945148BF30D936281B47BD&tr=http%3A%2F%2Fbt3.t-ru.org%2Fann%3Fmagnet&dn=%5BDL%5D%20%5B%D0%92%20%D1%80%D0%B0%D0%B7%D1%80%D0%B0%D0%B1%D0%BE%D1%82%D0%BA%D0%B5%5D%20Schedule%20I%20%5BP%5D%20%5BENG%20%2F%20ENG%5D%20(2025%2C%20Simulation)%20(0.4.0f8)%20%5BPortable%5D"
+      ],
+      "uploadDate": "2025-10-06T05:00:43.000Z"
+    },
+    {
+      "title": "Dying Light: The Beast - Deluxe Edition (linux)",
+      "fileSize": "42.32 GB",
+      "uris": [
+        "magnet:?xt=urn:btih:A4ECDF809EAB5368F55759B3E5FACA02C994AA24&tr=http%3A%2F%2Fbt4.t-ru.org%2Fann%3Fmagnet&dn=Dying%20Light%3A%20The%20Beast%20-%20Deluxe%20Edition%20(2025)%20(v.1.2.3)%20%2B%206%20DLC%20%5Bamd64%5D%20%5BMulti%5D%20%5BWine%5D"
+      ],
+      "uploadDate": "2025-10-06T05:00:43.000Z"
+    },
+    {
+      "title": "Dying Light: The Beast - Deluxe Edition",
+      "fileSize": "73.24 GB",
+      "uris": [
+        "magnet:?xt=urn:btih:6312F33B1DE171C4CA5CE04B789BFAFBA45838E7&tr=http%3A%2F%2Fbt2.t-ru.org%2Fann%3Fmagnet&dn=%5BDL%5D%20Dying%20Light%3A%20The%20Beast%20%5BP%5D%20%5BRUS%20%2B%20ENG%20%2B%2015%20%2F%20RUS%20%2B%20ENG%20%2B%207%5D%20(2025%2C%20Horror)%20(1.2.3%20%2B%202%20DLC)%20%5BPortable%5D"
       ],
       "uploadDate": "2025-10-06T05:00:43.000Z"
     }

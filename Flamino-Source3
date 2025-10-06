@@ -27,12 +27,27 @@
     },
     {
       "title": "Cuphead + 1 DLC",
-      "fileSize": "	6.86 GB",
+      "fileSize": "6.86 GB",
       "uris": [
         "magnet:?xt=urn:btih:CC7C52AA2C1190F264B595BDE2113BC988007E5B&tr=http%3A%2F%2Fbt.t-ru.org%2Fann%3Fmagnet&dn=%5BDL%5D%20Cuphead%20%5BL%5D%20%5BRUS%20%2B%20ENG%20%2B%207%5D%20(2017%2C%20Arcade)%20(1.3.9%20%2B%201%20DLC)%20%5BGOG%5D"
       ],
       "uploadDate": "2025-10-06T05:00:43.000Z"
     },
-    
+    {
+      "title": "Hollow Knight",
+      "fileSize": "931.5 MB",
+      "uris": [
+        "magnet:?xt=urn:btih:3DAE9412BBCF547A9AA377455ABB5F3DC18FDE7E&tr=http%3A%2F%2Fbt.t-ru.org%2Fann%3Fmagnet&dn=%5BAndroid%5D%20Hollow%20Knight%201.5.78.11.8.33%20%5B%D0%9C%D0%B5%D1%82%D1%80%D0%BE%D0%B8%D0%B4%D0%B2%D0%B0%D0%BD%D0%B8%D1%8F%2C%20%D0%9F%D1%80%D0%B8%D0%BA%D0%BB%D1%8E%D1%87%D0%B5%D0%BD%D0%B8%D0%B5%2C%20%D0%AD%D0%BA%D1%88%D0%BD%2C%20Nodpi%2C%20Multi%5D"
+      ],
+      "uploadDate": "2025-10-06T05:00:43.000Z"
+    },
+    {
+      "title": "Hades II",
+      "fileSize": "10.47 GB",
+      "uris": [
+        "magnet:?xt=urn:btih:91B515BAE922718C13DB20D638A466C8A243F1B1&tr=http%3A%2F%2Fbt4.t-ru.org%2Fann%3Fmagnet&dn=Hades%20II%20(2)%20%5Bamd64%5D%20%5BMulti%5D%20%5BWine%5D"
+      ],
+      "uploadDate": "2025-10-06T05:00:43.000Z"
+    }
   ]
 }
